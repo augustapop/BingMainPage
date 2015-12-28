@@ -1,0 +1,13 @@
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\BingMainPage.dll
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\BingMainPage.pdb
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\ThoughtWorks.Selenium.Core.dll
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\WebDriver.dll
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\WebDriver.Support.dll
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\ThoughtWorks.Selenium.Core.xml
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\WebDriver.xml
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\bin\Debug\WebDriver.Support.xml
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\obj\Debug\BingMainPage.csprojResolveAssemblyReference.cache
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\obj\Debug\BingMainPage.dll
+d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\obj\Debug\BingMainPage.pdb
