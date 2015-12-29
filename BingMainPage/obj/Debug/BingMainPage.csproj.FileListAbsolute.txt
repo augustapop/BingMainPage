@@ -11,3 +11,16 @@ d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\b
 d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\obj\Debug\BingMainPage.csprojResolveAssemblyReference.cache
 d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\obj\Debug\BingMainPage.dll
 d:\(documents)\documents\visual studio 2012\Projects\BingMainPage\BingMainPage\obj\Debug\BingMainPage.pdb
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\BingMainPage.dll
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\BingMainPage.pdb
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\WebDriver.dll
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\WebDriver.Support.dll
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\WebDriver.xml
+D:\Proiecte_Git\BingMainPage\BingMainPage\bin\Debug\WebDriver.Support.xml
+D:\Proiecte_Git\BingMainPage\BingMainPage\obj\Debug\BingMainPage.csprojResolveAssemblyReference.cache
+D:\Proiecte_Git\BingMainPage\BingMainPage\obj\Debug\BingMainPage.dll
+D:\Proiecte_Git\BingMainPage\BingMainPage\obj\Debug\BingMainPage.pdb
