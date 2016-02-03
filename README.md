@@ -1,7 +1,7 @@
 
 # BingMainPage 
 
-Requirements: The primary goal of the below tests is to navigate  to BingMainPage and insert a title in the search box and after validate the numbers of items founds
+Requirements: The primary goal of the below tests is to navigate  to BingMainPage, insert a title in the search box and after validate the numbers of items founds
 
 We will use two methods to do this:
 
