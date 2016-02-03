@@ -21,11 +21,8 @@ Ready Scenarios:
 
 1)Validate the numbers of items found using two classes:
 
-https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
 
 2)Validate the numbers ot items without using  Selenium WebDriver
-
-https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
 
 
 Steps:
@@ -41,6 +38,9 @@ Steps:
 5)Validate the number of items found
 
 
+Run the tests:
+
+
 1)Tests SearchTextInBing_First
 
 Download Zip and run https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
@@ -49,12 +49,3 @@ Download Zip and run https://github.com/augustapop/BingMainPage/blob/master/Bing
 
 Download Zip and run https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
 
-The classes and objects participating in this pattern are:
-
-Page Object Element Map – Contains all element properties and their location logic.
-Page Object Validator – Consists of the validations that will be performed on the page.
-Page Object (BingMainPage)- Holds the actions that can be performed on the page like Search and Navigate. 
-Exposes an easy access to the Page Validator through the Validate() method. The best implementations of the
-pattern hide the usage of the Element Map, wrapping it through all action methods.
-UI Tests (BingTests) – This class contains a group of tests related to the above page; it can hold only a single 
-instance of the page object.
