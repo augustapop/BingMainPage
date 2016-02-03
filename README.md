@@ -5,7 +5,7 @@ Requirements: The primary goal of the below tests is going to BingMainPage and i
 
 We will use two methods to do this:
 
-1)We use two classes:one for Page Object where we have fields and methods to navigate,search and validate the results,and another one for test (SearchTextInBing_First);
+1)We use two classes:one for Page Object where we have fields and methods to navigate,search and validate the results,and another one for test BingTests;
 
 2)The classes and objects participating in this pattern are:
 
