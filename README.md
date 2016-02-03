@@ -1,3 +1,4 @@
+
 # BingMainPage 
 
 Requirements: The primary goal of the below tests is going to BingMainPage and insert a title in the search box and after validate the numbers of items founds
@@ -8,10 +9,13 @@ We will use two methods to do this:
 
 2)The classes and objects participating in this pattern are:
 
-Page Object Element Map – Contains all element properties and their location logic.
-Page Object Validator – Consists of the validations that will be performed on the page.
-Page Object (BingMainPage)- Holds the actions that can be performed on the page like Search and Navigate. Exposes an easy access to the Page Validator through the Validate() method. The best implementations of the pattern hide the usage of the Element Map, wrapping it through all action methods.
-UI Tests (BingTests) – This class contains a group of tests related to the above page; it can hold only a single instance of the page object.(SeacrchTextInBing_Second)
+- Page Object Element Map – Contains all element properties and their location logic.
+
+- Page Object Validator – Consists of the validations that will be performed on the page.
+
+- Page Object (BingMainPage)- Holds the actions that can be performed on the page like Search and Navigate. Exposes an easy access to the Page Validator through the Validate() method. The best implementations of the pattern hide the usage of the Element Map, wrapping it through all action methods.
+
+- UI Tests (BingTests) – This class contains a group of tests related to the above page; it can hold only a single instance of the page object.(SeacrchTextInBing_Second)
 
 Ready Scenarios:
 
@@ -26,31 +30,24 @@ https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
 
 Steps:
 
-1)Navigate to Item’s Page
+1)Navigate to  Page
 
-2)Validate the price
+2)Find the text  box where you want to insert the title
 
-3)Click Buy It Now button
+3)Write the title
 
-4)On the SignIn page, click Continue as a guest
+4)Press the button search
 
-5)Fill Shipping Info
+5)Validate the number of items found
 
-6)Validate Subtotal price
 
-7) Click Continue button
+1)Tests SearchTextInBing_First
 
-8) Validate Total price
+Download Zip and run https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
 
-Running the Tests:
+2)Tests SeacrchTextInBing_Second
 
-1)Tests without Facade Design Pattern
-
-Download Zip and run EbayPurchase_without_PurchaseFaceade_Tests.cs https://github.com/augustapop/FacadeEbay/blob/master/FacadeEbay/EbayPurchase_without_PurchaseFaceade_Tests.cs
-
-2)Tests with Facade Design Pattern
-
-Download Zip and run EbayPurchase_Facade_Tests.cs https://github.com/augustapop/FacadeEbay/blob/master/FacadeEbay/EbayPurchase_Facade_Tests.cs
+Download Zip and run https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
 
 The classes and objects participating in this pattern are:
 
