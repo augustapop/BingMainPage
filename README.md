@@ -1,5 +1,57 @@
 # BingMainPage 
 
+Requirements: The primary goal of the below tests is going to BingMainPage and insert a title in the search box and after validate the numbers of items founds
+
+We will use two methods to do this:
+
+1)We use two classes:one for Page Object where we have fields and methods to navigate,search and validate the results,and another one for test (SearchTextInBing_First);
+
+2)The classes and objects participating in this pattern are:
+
+Page Object Element Map – Contains all element properties and their location logic.
+Page Object Validator – Consists of the validations that will be performed on the page.
+Page Object (BingMainPage)- Holds the actions that can be performed on the page like Search and Navigate. Exposes an easy access to the Page Validator through the Validate() method. The best implementations of the pattern hide the usage of the Element Map, wrapping it through all action methods.
+UI Tests (BingTests) – This class contains a group of tests related to the above page; it can hold only a single instance of the page object.(SeacrchTextInBing_Second)
+
+Ready Scenarios:
+
+1)Validate the numbers of items found using two classes:
+
+https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
+
+2)Validate the numbers ot items without using  Selenium WebDriver
+
+https://github.com/augustapop/BingMainPage/blob/master/BingMainPage/BingTest.cs
+
+
+Steps:
+
+1)Navigate to Item’s Page
+
+2)Validate the price
+
+3)Click Buy It Now button
+
+4)On the SignIn page, click Continue as a guest
+
+5)Fill Shipping Info
+
+6)Validate Subtotal price
+
+7) Click Continue button
+
+8) Validate Total price
+
+Running the Tests:
+
+1)Tests without Facade Design Pattern
+
+Download Zip and run EbayPurchase_without_PurchaseFaceade_Tests.cs https://github.com/augustapop/FacadeEbay/blob/master/FacadeEbay/EbayPurchase_without_PurchaseFaceade_Tests.cs
+
+2)Tests with Facade Design Pattern
+
+Download Zip and run EbayPurchase_Facade_Tests.cs https://github.com/augustapop/FacadeEbay/blob/master/FacadeEbay/EbayPurchase_Facade_Tests.cs
+
 The classes and objects participating in this pattern are:
 
 Page Object Element Map – Contains all element properties and their location logic.
